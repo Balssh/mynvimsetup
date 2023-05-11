@@ -1,4 +1,5 @@
 return {
+  -- Disabled plugins
   -- Change colorscheme
   { "sainnhe/everforest" },
   {
